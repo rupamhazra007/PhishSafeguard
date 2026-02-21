@@ -1,0 +1,20 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Composer vendor and node modules
+vendor/
+node_modules/
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+config.php
+
+# XAMPP / temp / logs
+*.log
+/tmp/
+uploads/
