@@ -135,7 +135,7 @@ Final classifications include:
 
 **University:** Maulana Abul Kalam Azad University of Technology (MAKAUT), West Bengal
 
-**Academic Session:** 2024–2028
+**Academic Session:** 2022–2026
 
 ---
 
